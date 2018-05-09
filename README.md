@@ -1,3 +1,3 @@
 ## Jest exercise
 
-- simple Raect based test exercise
+- simple React testing exercise
